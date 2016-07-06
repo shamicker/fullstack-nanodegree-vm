@@ -120,4 +120,4 @@ Returns a list of similarly-ranking paired rivals, as tuples `(id1, name1, id2, 
 - create teams: instead of player vs player, it'll be team vs team. Different games will have different numbers of players. For example, you'll be able to play tennis in teams of 1, 2, or 4. Once I figure out triggers and sub-sequences.
 - create auto-populating tournaments, just because. Better yet, create buttons for the different functions. Like a form to fill out: enter data, click appropriate button and it's in the table. Easy for the end-user. Once I figure out how things link together...
 
-![Multi-Game Tournament](Screen Shot 2016-05-30 at 12.41.00.png)
+![Multi-Game Tournament](Screen Shot.png)
